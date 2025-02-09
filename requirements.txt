@@ -1,0 +1,13 @@
+python-dotenv
+kagglehub
+pandas
+matplotlib
+seaborn
+langchain-community
+langchain-huggingface
+sentence-transformers
+langchain-chroma
+transformers
+gradio
+ipywidgets
+notebook
