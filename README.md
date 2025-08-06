@@ -14,8 +14,8 @@ This project is a **semantic book recommender system** powered by **Large Langua
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/devil3515/book-recommender.git
+cd book-recommender
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
